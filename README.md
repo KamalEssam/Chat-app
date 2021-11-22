@@ -12,6 +12,6 @@ Its a good example of learning react and creating something production ready!
 
 ## username and password
 
-['username'] "Kamal"
-[Password]   "123123"
+**username**   Kamal
+**Password**   123123
 
